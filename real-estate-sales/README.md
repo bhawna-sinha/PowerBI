@@ -2,7 +2,7 @@ This repository contains a real estate sales dashboard, designed to provide an i
 
 Used DAX to calcutale contribution of agent, total sales, new prpperty & sold property,  previous year sales and sales icon.
 
-![Real estate sales dashboard] (https://github.com/bhawna-sinha/PowerBI/blob/main/real-estate-sales/Screenshot%202023-07-06%20185046.png)
+![Real estate sales dashboard] (https://github.com/bhawna-sinha/PowerBI/blob/main/real-estate-sales/Screenshot%202023-07-06%20185046.png?raw=true)
 
 1. Used KPI cards to show Total sales, Target, Revenu and Total properties.
 2. Used stacked bar chart to show Sales done by each Agent.
