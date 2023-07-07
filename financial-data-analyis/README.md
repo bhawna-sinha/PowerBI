@@ -6,6 +6,6 @@ This repository contains a powerful financial data analysis dashboard, designed 
 2. Donut chart is used to show Revenue by Region.
 3. Area chart is used to show Revenue by Quater.
 4. Ribbon chart is used to show Revenue by Produt and Rank(store).
-5. Tree map is used to visualize Revenue bu Rank.
-6. Line & stacked column charts is used shor Total Revenue and Average Revenue by Month nd Country.
+5. Tree map is used to visualize Revenue by Rank.
+6. Line & Stacked column charts is used show Total Revenue and Average Revenue by Month and Country.
 7. Matrix is used here to show sales Representative and their Revenue
