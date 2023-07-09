@@ -1,6 +1,6 @@
-In this repository an E-commerce sales data analysis dashboard is designed to help businesses gain actionable insights from their online sales data. The dashboard provides intuitive visualizations, comprehensive metrics, and customizable reports to optimize decision-making and drive ecommerce success.
+-In this repository an E-commerce sales data analysis dashboard is designed to help businesses gain actionable insights from their online sales data. The dashboard provides intuitive visualizations, comprehensive metrics, and customizable reports to optimize decision-making and drive ecommerce success.
 
-![E-Commerce Sales Analysis Dashboard](https://github.com/bhawna-sinha/PowerBI/blob/main/E-Commerce%20sales%20analysys/Screenshot%202023-07-08%20091121.png?raw=trie)
+-![E-Commerce Sales Analysis Dashboard](https://github.com/bhawna-sinha/PowerBI/blob/main/E-Commerce%20sales%20analysys/Screenshot%202023-07-08%20091121.png?raw=true)
 
 DAX Functions are used to calculate-
 1. Year to Date Sales, Year to Date Profit, Year to Date Quantity, Year to Date Profit Margin.
