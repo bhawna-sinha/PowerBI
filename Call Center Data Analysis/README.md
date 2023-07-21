@@ -1,4 +1,4 @@
- this Call Center Data Analysis Dashboard is designed to provide insights and visualizations for call center performance metrics. The dashboard is built using power bi to help call center managers and stakeholders make informed decisions and optimize operations.
+ This Call Center Data Analysis Dashboard is designed to provide insights and visualizations for call center performance metrics. The dashboard is built using power bi to help call center managers and stakeholders make informed decisions and optimize operations.
  ![Call Center Data Analysis Dashboard](https://github.com/bhawna-sinha/PowerBI/blob/main/Call%20Center%20Data%20Analysis/Screenshot%202023-07-20%20115611.png?raw=true)
 
  Key features and visualization-
