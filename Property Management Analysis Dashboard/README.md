@@ -1,4 +1,4 @@
-This repository contains a comprehensive data analysis dashboard designed for property management. The dashboard provides intuitive visualizations and insights to help property managers and stakeholders make informed decisions about their real estate assets. It is created by following few steps such as Data Extraction, Data Transformation and Cleaning, Data Modeling & DAX Function, Dashboard Design and Visualization.
+This dashboard contains a comprehensive data analysis designed for property management. The dashboard provides intuitive visualizations and insights to help property managers and stakeholders make informed decisions about their real estate assets. It is created by following few steps such as Data Extraction, Data Transformation and Cleaning, Data Modeling & DAX Function, Dashboard Design and Visualization.
 
 ![Property Management dashboard](https://github.com/bhawna-sinha/PowerBI/blob/main/Property%20Management%20Analysis%20Dashboard/Screenshot%202023-07-17%20173409.png?raw=true)
 
