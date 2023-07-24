@@ -1,6 +1,6 @@
 This is a Super Store Sales Dashboard creates by using POWER BI. Through interactive visualizations, it enables users to explore sales data, track key metrics, and identify trends to make informed business decisions. This dashboard is a valuable asset for businesses looking to enhance sales strategies, maximize revenue, and gain a competitive edge.
 
-[Super Store Sales Dashboard](https://github.com/bhawna-sinha/PowerBI/blob/main/Super%20Store%20Sales%20Dashboard/Screenshot%202023-07-12%20212342.png?raw=true)
+![Super Store Sales Dashboard](https://github.com/bhawna-sinha/PowerBI/blob/main/Super%20Store%20Sales%20Dashboard/Screenshot%202023-07-12%20212342.png?raw=true)
 
 Steps followed-
 1. Data extraction.
