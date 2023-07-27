@@ -7,7 +7,7 @@ Steps followed-
 4) Created dashboard using different visuals.
 5) getting insights of the whole employees structure in the company
 
-![HR Attrition Analytics Dashboard](https://github.com/bhawna-sinha/PowerBI/blob/main/HR%20Attrition%20Analytics%20Dashboard/Screenshot%202023-07-11%20201235.png?raw=true)
+![HR Attrition Analytics Dashboard](https://github.com/bhawna-sinha/PowerBI/blob/main/HR%20Attrition%20Analytics%20Dashboard/Screenshot%202023-07-11%20205020.png?raw=true)
 
 Chatrs and Graphs used-
 1. Cards are used here to show Count of Employee(1470), Total Attrition(237), Attrition Rate(16.1), Average Age(37), Average Salary(6.5k) and Average year worked(7).
