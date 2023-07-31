@@ -2,6 +2,9 @@ This is a Super Store Sales Dashboard creates by using POWER BI. Through interac
 
 ![Super Store Sales Dashboard](https://github.com/bhawna-sinha/PowerBI/blob/main/Super%20Store%20Sales%20Dashboard/Screenshot%202023-07-12%20212342.png?raw=true)
 
+![Super Store Sales Forecast](https://github.com/bhawna-sinha/PowerBI/blob/main/Super%20Store%20Sales%20Dashboard/Screenshot%202023-07-31%20231731.png?raw=true)
+
+
 Steps followed-
 1. Data extraction.
 2. Data Transformation.
