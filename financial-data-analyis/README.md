@@ -1,4 +1,4 @@
-This repository contains a powerful financial data analysis dashboard, designed to help businesses gain valuable insights from their financial data. Some DAX function are used to calculate Total Revenue, Average Revenue and total Transaction.
+This is a powerful Financial Data Analysis Dashboard, designed to help businesses gain valuable insights from their financial data. Some DAX function are used to calculate Total Revenue, Average Revenue and total Transaction.
 
 ![Financial Data Analysis Dashboard](https://github.com/bhawna-sinha/PowerBI/blob/main/financial-data-analyis/Screenshot%202023-07-06%20220753.png?raw=true)
 
