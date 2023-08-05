@@ -1,4 +1,4 @@
-This repository contains a real estate sales dashboard, designed to provide an interactive and comprehensive overview of sales data. The dashboard offers intuitive visualizations and insightful metrics to help real estate professionals analyze and track sales performance effectively.
+This Is a Real Estate Sales Dashboard, designed to provide an interactive and comprehensive overview of sales data. The dashboard offers intuitive visualizations and insightful metrics to help real estate professionals analyze and track sales performance effectively.
 
 Used DAX to calcutale contribution of agent, total sales, new prpperty & sold property,  previous year sales and sales icon.
 

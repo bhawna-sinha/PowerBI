@@ -1,4 +1,4 @@
-This repository contains a comprehensive HR Attrition Analytics Dashboard that provides insights and visualization of attrition trends and patterns within an organization. It includes various interactive charts and graphs to analyze attrition rates, reasons for attrition, department-wise attrition, and more. This dashboard is helpful to gain valuable insights into employee attrition and make data-driven decisions to optimize workforce management.
+This is a comprehensive HR Attrition Analytics Dashboard that provides insights and visualization of attrition trends and patterns within an organization. It includes various interactive charts and graphs to analyze attrition rates, reasons for attrition, department-wise attrition, and more. This dashboard is helpful to gain valuable insights into employee attrition and make data-driven decisions to optimize workforce management.
 
 Steps followed-
 1) Analyzing raw data.

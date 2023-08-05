@@ -1,4 +1,4 @@
-Created this repository to show the data analysis of Food and Bevarage Sales. The Food and Beverage Analysis Dashboard provides real-time insights into sales, inventory, and customer behavior. It offers features such as sales analysis, inventory management, customer insights, menu optimization, and trend analysis. Customize and optimize operations to drive profitability and customer satisfaction.
+This dashboard is created to show the data analysis of Food and Bevarage Sales. The Food and Beverage Analysis Dashboard provides real-time insights into sales, inventory, and customer behavior. It offers features such as sales analysis, inventory management, customer insights, menu optimization, and trend analysis. Customize and optimize operations to drive profitability and customer satisfaction.
 
 ![Food And Beverage Sales Analysis Dashboard](https://github.com/bhawna-sinha/PowerBI/blob/main/Food%20And%20Beverage%20Sales%20Analysis%20Dashboard/Screenshot%202023-07-09%20194753.png?raw=true)
 
