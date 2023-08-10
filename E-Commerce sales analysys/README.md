@@ -1,4 +1,4 @@
--In this repository an E-commerce sales data analysis dashboard is designed to help businesses gain actionable insights from their online sales data. The dashboard provides intuitive visualizations, comprehensive metrics, and customizable reports to optimize decision-making and drive ecommerce success.
+This is an E-commerce sales data analysis dashboard which is designed to help businesses gain actionable insights from their online sales data. The dashboard provides intuitive visualizations, comprehensive metrics, and customizable reports to optimize decision-making and drive ecommerce success.
 
 -![E-Commerce Sales Analysis Dashboard](https://github.com/bhawna-sinha/PowerBI/blob/main/E-Commerce%20sales%20analysys/Screenshot%202023-07-08%20091121.png?raw=true)
 
