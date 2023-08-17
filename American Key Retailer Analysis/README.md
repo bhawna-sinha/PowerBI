@@ -1,5 +1,5 @@
 This is American Key Retailer Dashboard for analyzing retail metrics specific to the United States. It provides interactive visualizations for sales, inventory, and customer data. It will help to make data-driven decisions and optimize performance. The dashboard supports trend analysis, and drill-down capabilities, to gain actionable insights and enhance their retail operations.
-![American Key Retailer Dashboard](https://github.com/bhawna-sinha/PowerBI/blob/main/American%20Key%20Retailer%20Analysis/Screenshot%202023-07-14%20210946.png?raw=true)
+![American Key Retailer Dashboard](https://github.com/bhawna-sinha/PowerBI/blob/main/American%20Key%20Retailer%20Analysis/Screenshot%202023-08-17%20130539.png?raw=true)
 
 Interactive charts and graphs are used for data analysis-
 1. Cards are used to show KPIs such as Total Sales, Total Unit Sold, Operating Profit and Average Operating Margin.
