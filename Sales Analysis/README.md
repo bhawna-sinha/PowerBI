@@ -7,3 +7,11 @@ Data Transformation.
 Data analysing and cleaning using power querry.
 Used Dax functions to calculate some important measures.
 Used charts, filters and slicers to visualize data.
+
+Visualizations-
+1. Cards are used to show total sales, avrage delivery days, total quantity and total returns.
+2. Stacked bar chart is used here to show top products by loss.
+3. Stacked column chart is used to show sales by market.
+4. Clustered bar chart is used to show top 5 products by profit.
+5. Map is used to show country sales.
+5. Slicers used to filter the visuals by year.
