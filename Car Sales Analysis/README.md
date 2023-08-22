@@ -1,6 +1,6 @@
 This Car Sales Analysis Dashboard is very helpful to gain valuable insights from car sales data. With intuitive charts and interactive features, we can easily explore sales performance, revenue, and market trends. This dashboard empowers us to make informed decisions and optimize car sales strategies for success.
 
-![Car Sales Analysis Dashboard](https://github.com/bhawna-sinha/PowerBI/blob/main/Car%20Sales%20Analysis/Screenshot%202023-07-10%20200555.png?raw=true)
+![Car Sales Analysis Dashboard](https://github.com/bhawna-sinha/PowerBI/blob/main/Car%20Sales%20Analysis/Screenshot%202023-08-22%20204504.png?raw=true)
 
 Charts and Graphs-
 1. Cards are used to show Revenue(1201M), Variants(146) and Unit sold(1M).
